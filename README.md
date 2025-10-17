@@ -182,3 +182,16 @@ This project is provided for educational purposes only. Students should:
 - Follow academic honesty policies
 
 **Remember**: The goal is learning! Focus on understanding testing principles, creating thorough test cases, and documenting your testing process. Good luck with your software testing journey! 🎓
+
+
+
+---
+
+## 📦 Testing and CI/CD
+
+This repository includes automated testing and performance profiling:
+
+- Unit tests are located in `/tests/test_books_and_cart.py`
+- Performance profiling script in `/perf/perf_measure.py`
+- GitHub Actions workflow at `.github/workflows/ci.yml`
+- See `README_TESTS.md` for usage details.
